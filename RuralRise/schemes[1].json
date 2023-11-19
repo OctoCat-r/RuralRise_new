@@ -1,0 +1,114 @@
+{ "schemes":[
+    {
+        "title": "Agriculture Infrastructure Fund",
+        "duration": "The duration of the Scheme shall be from FY2020 to FY2032 (10 years).",
+        "eligible": ["Organic inputs production",
+        "Bio stimulant production units",
+        "Infrastructure for smart and precision agricultureFarm/Harvest Automation",
+        "Purchase of drones, putting up specialized sensors on field, Blockchain and AI in agriculture etc.",
+        
+        "Seed Processing"],
+        "benefits": ["All loans under this financing facility will have interest subvention of 3% per annum up to a limit of Rs. 2 crore. This subvention will be available for a maximum period of seven years.",
+        "Further credit guarantee coverage will be available for eligible borrowers from this financing facility under Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) scheme for a loan up to Rs. 2 crore. The fee for this coverage will be paid by the Government.", 
+        "In case of FPOs the credit guarantee may be availed from the facility created under FPO promotion scheme of Department of Agriculture, Cooperation & Farmers Welfare (DACFW).",
+        "Moratorium for repayment under this financing facility may vary subject to minimum of 6 months and maximum of 2 years."],
+        "apply": "To apply online, click here https://agriinfra.dac.gov.in/Home/BeneficiaryRegistration"
+    },
+    {
+        "title": "Credit facility for farmers",
+        "duration": "This scheme has no expiration date unless otherwise stated.",
+        "eligible": ["You must be 18 years or older and under 75 years of age to apply"],
+        "benefits": ["There will be a uniform premium of only 2% to be paid by farmers for all Kharif crops and 1.5% for all Rabi crops. In case of annual commercial and horticultural crops, the premium to be paid by farmers will be only 5%. The premium rates to be paid by farmers are very low and balance premium will be paid by the Government to provide full insured amount to the farmers against crop loss on account of natural calamities.",
+        "There is no upper limit on Government subsidy. Even if balance premium is 90%, it will be borne by the Government.", 
+        "Earlier, there was a provision of capping the premium rate which resulted in low claims being paid to farmers. This capping was done to limit Government outgo on the premium subsidy. This capping has now been removed and farmers will get claim against full sum insured without any reduction.",
+        "The use of technology will be encouraged to a great extent. Smart phones will be used to capture and upload data of crop cutting to reduce the delays in claim payment to farmers. Remote sensing will be used to reduce the number of crop cutting experiments.",
+        "PMFBY is a replacement scheme of  NAIS / MNAIS, there will be exemption from Service Tax liability of all the services involved in the implementation of the scheme. It is estimated that the new scheme will ensure about 75-80 per cent of subsidy for the farmers in insurance premium."],
+        "apply": "Contact your nearest bank to access the scheme."
+    },
+    {
+        "title": "Pradhan Mantri Fasal Bima Yojana",
+        "duration": "This scheme has no expiration date unless otherwise stated.",
+        "eligible": ["Farmers must have a valid and authenticated land ownership certificate or a valid land tenancy agreement.",
+        "The farmer must have applied for insurance coverage within the prescribed time frame, which is generally within 2 weeks of the start of the sowing season."],
+        "benefits": ["Crop loan upto Rs.3 lakhs at 7% rate of interest. This interest rate becomes 4% due to 3% interest subvention incentives provided to those farmers who repay crop loan on time. No need of collateral security for farm loan up to Rs 1.6 lakh",
+        "Farmers can avail crop loan through Kisan Credit Card. Loan /credit limit is fixed on the basis of crop sown and area under cultivation. Kisan Credit Cards are valid for 3-5 years. Farmers are also provided risk coverage in the event of accidental death/ disability. Crop coverage loans are covered under the Crop Insurance Scheme.", 
+        "Loan facility to the farmers is available for investment purposes in the areas viz. Irrigation, Agricultural Mechanization, Land Development, Plantation, Horticulture and Post-Harvest Management"],
+        "apply": "Farmers can apply online for Crop Insurance at the link https://pmfby.gov.in/"
+    },
+    {
+        "title": "Weather Based Crop Insurance Scheme (WBCIS)",
+        "duration": "This scheme has no expiration date unless otherwise stated.",
+        "eligible": ["All farmers including sharecroppers and tenant farmers growing the notified crops in the notified areas are eligible for coverage. However, farmers should have insurable interest on the insured crop. The non-loanee farmers are required to submit necessary documentary evidence of land records and / or applicable contract / agreements details (in case of sharecroppers / tenant farmers).",
+        "All farmers availing Seasonal Agricultural Operations (SAO) loans from Financial Institutions (i.e. loanee farmers) for the crop(s) notified are covered on compulsory basis.",
+        "The Scheme is optional for the non-loanee farmers. They can choose between WBCIS and PMFBY, and also the insurance company."],
+        "benefits": ["Insurance protection for notified food crops, oilseeds and horticultural /commercial crops",
+        "Uniform maximum premium for all farmers like PMFBY : Kharif season - 2% of sum insured, Rabi Season 1.5% of sum insured, Commercial/horticultural crops 5% of sum insured.", 
+        "The difference between actual premium and the rate of Insurance payable by farmers shall be shared equally by the Centre and State.",
+        "When the Weather indices (rainfall/temperature/relative humidity/wind speed etc) is different (less/ higher) from the Guaranteed Weather Index of notified crops, the claim payment equal to deviation/shortfall is payable to all insured farmers of notified area.",
+        "Provision for assessment of losses caused by hailstorm and cloud burst at individual farm level.",
+        "Implementing agency will be selected by the State Government through bid."],
+        "apply": "For the complete operational guidelines of the Insurance scheme, https://www.india.gov.in/weather-based-crop-insurance-scheme-wbcis"
+    },
+    {
+        "title": "Group Accident Insurance scheme for Fishermen",
+        "duration": "This scheme has no expiration date unless otherwise stated.",
+        "eligible": ["Fishers include fish workers, fish farmers and any other category of persons directly involved in fishing and fisheries related allied activities.",
+        "Men or women fishers in the age group of 18 to 70 years shall be eligible for insurance coverage"],
+        "benefits": ["Rs.5.00 lakh against death or permanent total disability",
+        "Rs. 2.50 lakh against permanent partial disability", 
+        "Rs. 25,000 against accidental hospitalization",
+        "The entire premium amount will be shared between the Center and State as per the funding pattern of the PMMSY. Thus, no beneficiary contribution is envisaged."],
+        "apply": "Please contact your state Fisheries department for enrollment in the scheme, For more details, click here https://nfdb.gov.in/GAIS"
+    },
+    {
+        "title": "Interest subvention for dairy sector",
+        "eligible": ["Dairy Cooperatives and Farmer owned milk producer companies (such as Milk Unions , Milk Federations , Farmer Owned / Milk  Producer Companies)."],
+        "duration": "The scheme was initiated during 2020-21. GoI has now extended the same for the period of 2021-22 to 2025-26 with an outlay of Rs. 500 Crore.",
+        "benefits": ["In order to meet the working Capital needs of the Cooperatives and Farmer owned milk producer companies, Interest subvention will be given on working capital loan taken from scheduled Commercial Banks/R.R.Bs/Cooperative Banks/Financial Institutions by Cooperatives/FPOs for conversion of milk into conserved commodities and other milk products.",
+        "The scheme has made provisions for providing interest subvention of 2% per annum, with an additional incentive of 2% per annum interest subvention to be given in case of prompt and timely repayment/interest servicing."],
+        "apply": "Please contact your nearest bank or https://www.nddb.coop/services/fps/interest-subvention-on-WCL for more details."
+    },
+    {
+        "title": "National Mission on Natural Farming",
+        "duration": "The scheme is for a duration of 2023-2026.",
+        "eligible": ["The farmers willing to implement natural farming on their field will be registered as cluster members, each cluster shall comprise 50 farmers or more with 50-hectare land.",
+        "Each cluster can fall into one village or spread across 2-3 nearby villages under the same gram panchayat."],
+        "benefits": ["Incentive to farmers for one time on-farm manure production infrastructure: A financial assistance of Rs. 15000/- per ha @ Rs. 5000/- per ha/year for three years ",
+        "Training of farmers by Champion farmer and CRP: 6 such trainings of one day duration will be organized at village level for all the farmers in a batch of 50 farmers. A sum of Rs. 30,000/- is provided for such trainings @ Rs. 50 per farmer per training. ",
+        "Farmer Producer Organisations (FPO) formation for farmers practicing Natural Farming - 100 FPOs in the Gangetic belt (5 Km Corridor of Ganga Basin) and another 400 FPOs in the rest of the country from the 10,000 FPO scheme being implemented by the Ministry of Agriculture and Farmers' Welfare",
+        "Farmer Field School – First year of the natural farming mission will be devoted to the awareness creation through Farmer Field School (FFS)."],
+        "apply": "To know more, visit http://naturalfarming.dac.gov.in/"
+    },
+    {
+        "title": "PM Kisan Maan Dhan Yojana",
+        "duration": "This scheme has no expiration date unless otherwise stated.",
+        "eligible": ["PM Kisan Maandhan Yojana covers farmers possessing land up to 2 hectares in the age group 18-40 years with a minimum pension of ₹3,000 per month."],
+        "benefits": ["Under this scheme, a minimum fixed pension of Rs.3,000/- is provided to the small and marginal farmers, subject to certain exclusion criteria, on attaining the age of 60 years. It is a voluntary and contributory pension scheme.",
+        "The eligible farmer is required to contribute to a Pension Fund between Rs.55 to Rs.200 per month depending on the entry age. The Central Government also contributes in equal amount to the Pension Fund."],
+        "apply": "The enrollment to the Scheme can be done through self registration online or through the Common Service Centres in various states. The enrollment is free of cost. For self enrollment through online registration, click here https://maandhan.in/. For enrollment through Common Service Centre. Farmers can visit their nearest Common Service Centres (CSCs)  for registration. The Common Service Centres will charge Rs.30/- per enrolment which will be borne by the Government."
+    },
+    {
+        "title": "Pradhan Mantri Kisan Samman Nidhi",
+        "duration": "This scheme has no expiration date unless otherwise stated.",
+        "eligible": ["Farmers must be Indian citizens and possess cultivable land in order to qualify for the PM Kisan Samman Nidhi Yojana.",
+        "The scheme applies to small and marginal farmers cultivating up to 2 hectares of land."],
+        "benefits": ["Under the PM-KISAN scheme, all landholding farmers' families shall be provided the financial benefit of Rs. 6000 per annum per family payable in three equal installments of Rs. 2000 each, every four months."],
+        "apply": "The eligible farmers may apply with the village Patwaris, revenue officials or other designated officers / agencies and submit their required details to them. Farmers can also visit their nearest Common Service Centres (CSCs) for registration in the Scheme upon payment of fees. Farmers can also do their self-registration through the Farmers Corner in the PM KISAN portal. https://pmkisan.gov.in/"
+    },
+    {
+        "title": "Pradhan Mantri Krishi Sinchai Yojana",
+        "duration": "This scheme has no expiration date unless otherwise stated.",
+        "eligible": ["Farmers of any class or division are eligible to participate in the plan"],
+        "benefits": ["Water Carrying Pipes: @ 50% of the cost limited to Rs. 50/- per meter from HDPE pipes, Rs. 35 per meter for PVC pipes and Rs. 20/- per meter for HDPE laminated oven lay flat tubes with maximum ceiling of Rs. 15,000 per farmer/beneficiary for water carrying pipes",
+        "Plastic/RCC based water harvesting structure/ farm pond /construction of community tank: Rs. 20 lakhs per unit in plain areas; and Rs. 25.00 lakhs per unit in hilly areas with 500 micron plastic lining/RCC lining, for 10-hectare command area",
+        "Water Storage in Farm Pond/ Dug well (Measuring 20 meter x 20 meter x 3 meter) by individual: Rs. 1.50 lakhs per beneficiary for plain areas & Rs. 1.80 lakhs/beneficiary for hilly areas with 300 micron plastic lining/RCC lining, for 2-hectare command area",
+        "Pump-sets(up to 10 HP) for Rice, Wheat & Pulses: Rs. 10,000/- per pump-set or 50 % of the cost whichever is less.",
+        "Construction of dug well / Bore Well: 100% of cost limited to Rs. 30,000/-",
+        "Mobile rain gun for Pulses only: Rs. 15,000/- per mobile rain gun or 50 % of the cost whichever is less.",
+        "Shallow Tube Wells: 100% of cost limited to Rs. 12,000/-"],
+        "apply": "The eligible farmers may contact District Agriculture Officer / District Soil Conservation Officer / Project Director, ATMA/ District Horticulture Officer."
+    }
+    
+    ]
+
+}
